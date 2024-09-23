@@ -1,0 +1,8 @@
+ID,Title,Author,ISBN,Category,Total Copies,Available Copies,Date Added,Status,Borrowed By
+1,Book1,Author1,111,Category1,5,0,01-01-2021,Borrowed,m,
+2,Book2,Author2,222,Category2,3,0,02-02-2022,Borrowed,b,
+3,Book3,Author3,333,Category3,2,0,03-03-2023,Borrowed,b,
+4,bb,b,12,b,4,0,02-02-02,Borrowed,"cd500369-14e5-469f-a71c-0ee02b662dcc,1,1,1",23-09-2024
+5,bb,b,1,b,2,0,02-02-08,Borrowed,cd500369-14e5-469f-a71c-0ee02b662dcc,23-09-2024
+6,nn,n,12,n,4,0,02-01-01,Borrowed,"1,cd500369-14e5-469f-a71c-0ee02b662dcc,1,cd500369-14e5-469f-a71c-0ee02b662dcc",23-09-2024
+7,neo,n,123,n,5,1,21-02-02,Reserved,"cd500369-14e5-469f-a71c-0ee02b662dcc,cd500369-14e5-469f-a71c-0ee02b662dcc,1,1",23-09-2024
